@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="HtmlAgilityPack.NetCore" Version="1.5.0.1" />
+    <PackageReference Include="Xabe.FFmpeg" Version="4.1.1" />
   </ItemGroup>
 
 </Project>
